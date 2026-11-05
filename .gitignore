@@ -1,0 +1,13 @@
+# Build outputs
+hegybiro
+*.o
+*.out
+*.dSYM/
+
+# Temporary file created while rewriting the data file
+temp.txt
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
