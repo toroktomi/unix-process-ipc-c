@@ -1,0 +1,6 @@
+2|Tokaj|Hetszolo|Furmint|1200|15
+3|Villany|Kopar dulo|Cabernet Franc|800|5
+4|Eger|Nagy-Eged|Kekfrankos|600|25
+5|Szekszard|Ivan-volgy|Kadarka|450|60
+6|Badacsony|Szent Gyorgy-hegy|Szurkebarat|750|10
+7|Somlo|Aranyhegy|Juhfark|300|80
